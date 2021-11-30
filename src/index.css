@@ -108,7 +108,7 @@ body ::-webkit-scrollbar-thumb {
 }
 .primary-btn{
   color: var(--white);
-  border: 2px solid linen;
+  border: 2px solid fuchsia;
   font-size: 12px;
   background-color: #1f2235;
 }

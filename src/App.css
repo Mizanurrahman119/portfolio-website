@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,23 @@
   to {
     transform: rotate(360deg);
   }
+} */
+:root{
+  --Light-blue : #04c3ff;
+  --Light-blue-Shadow: rgba(69 211 255 / 274);
+  --sea-green: #0abfad;
+  --sea-green-dark: #0cbfae;
+  --sea-green-extra-dark: #09bead;
+  --sea-green-shadow: rgba(11, 190, 173, 0.4);
+  --header-thamburger-background: rgba(11, 190, 173, 0.8);
+  --orange: #f57f17;
+  --dark-orange: #ff5823;
+  --orange-shadow: rgba(254, 127, 23, 0.2);
+  --white: #ffffff;
+  --black: #333333;
+  --disabled-btn: #09bead71;
+  --error-message: #e44f4ffa;
+  --toast-shadow: #9c9c9ce3;
+  --toast-success: #0cbfae;
+  --toast-color: #0cbfae;
 }

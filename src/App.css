@@ -78,11 +78,10 @@
   padding: 20px;
   justify-content: center;
   flex-direction: column;
-  margin-top: 20px;
 }
 
 .component__space{
-  padding: 100px 0px;
+  padding: 20px 0px 0px 0px;
 }
 .pointer{
   cursor: pointer;
